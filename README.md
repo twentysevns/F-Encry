@@ -7,7 +7,7 @@ F-Encry is a simple Iteration symetrics Hash based Encryption algorithm, where i
 
 ## Installation
 ```
-git clone https://github.com/rhpz/F-Encry.git
+git clone https://github.com/twentysevns/F-Encry.git
 cd F-Encry
 chmod +x f-encry
 ./f-encry
